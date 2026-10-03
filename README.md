@@ -127,14 +127,6 @@ A REST API for managing personal expenses with authentication and database integ
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahsan410&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 ```text
@@ -175,11 +167,13 @@ I enjoy solving algorithmic problems and improving my understanding of:
 
 ## 📫 Connect With Me
 
+## 📫 Connect With Me
+
 <p align="left">
   <a href="https://github.com/tahsan410">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/tahsan-farhad-819398382">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
