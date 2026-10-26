@@ -8,20 +8,20 @@ I enjoy turning ideas into real-world projects while continuously improving my p
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 🎓 CSE Student at **Shahjalal University of Science and Technology**
-* 💻 Interested in **Software Engineering & Full-Stack Development**
-* 🌐 Building **Web & Mobile Applications**
-* ⚙️ Interested in **Backend Development & APIs**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🧩 Practicing **Data Structures, Algorithms & Competitive Programming**
-* 🔨 Building projects to solve practical problems
-* 📚 Always learning and experimenting with new technologies
+*  CSE Student at **Shahjalal University of Science and Technology**
+*  Interested in **Software Engineering & Full-Stack Development**
+*  Building **Web & Mobile Applications**
+*  Interested in **Backend Development & APIs**
+*  Exploring **Artificial Intelligence & Machine Learning**
+*  Practicing **Data Structures, Algorithms & Competitive Programming**
+*  Building projects to solve practical problems
+*  Always learning and experimenting with new technologies
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -64,9 +64,9 @@ I'm currently exploring:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📦 Courier Management System
+###  Courier Management System
 
 A full-stack courier management platform built to manage courier operations and delivery workflows through a centralized system.
 
@@ -74,25 +74,25 @@ A full-stack courier management platform built to manage courier operations and 
 
 ---
 
-### 📱 Hishabi — হিসাবী
+###  Hishabi — হিসাবী
 
 A personal finance and mess management application designed for students and everyday users.
 
 **Features include:**
 
-* 💰 Expense tracking
-* 📊 Budget management
-* 🍛 Mess & meal management
-* 🤝 Shared expense calculation
-* 💸 Dena-Pawna tracking
-* 📄 Expense reports
-* 🤖 AI-assisted expense insights
+*  Expense tracking
+*  Budget management
+*  Mess & meal management
+*  Shared expense calculation
+*  Dena-Pawna tracking
+*  Expense reports
+*  AI-assisted expense insights
 
 **Tech:** Flutter • Firebase
 
 ---
 
-### 🎬 Movie Explorer
+###  Movie Explorer
 
 A modern movie discovery web application where users can explore movies and browse movie information through an interactive interface.
 
@@ -102,7 +102,7 @@ A modern movie discovery web application where users can explore movies and brow
 
 ---
 
-### 💰 Expense Tracker API
+###  Expense Tracker API
 
 A REST API for managing personal expenses with authentication and database integration.
 
@@ -110,7 +110,7 @@ A REST API for managing personal expenses with authentication and database integ
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tahsan410&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -119,7 +119,7 @@ A REST API for managing personal expenses with authentication and database integ
 
 ---
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tahsan410&theme=tokyonight&hide_border=true" />
@@ -127,7 +127,7 @@ A REST API for managing personal expenses with authentication and database integ
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 ```text
 Software Engineering
@@ -143,7 +143,7 @@ AI Automation & Intelligent Applications
 
 ---
 
-## 🧠 Problem Solving
+##  Problem Solving
 
 I enjoy solving algorithmic problems and improving my understanding of:
 
@@ -155,19 +155,19 @@ I enjoy solving algorithmic problems and improving my understanding of:
 
 ---
 
-## 🎯 Goals
+##  Goals
 
-* 🚀 Become a strong **Software Engineer**
-* 🌐 Build scalable full-stack applications
-* 🤖 Develop practical AI-powered products
-* 🧠 Improve competitive programming and problem-solving skills
-* 🌍 Build software that solves real-world problems
+*  Become a strong **Software Engineer**
+*  Build scalable full-stack applications
+*  Develop practical AI-powered products
+*  Improve competitive programming and problem-solving skills
+*  Build software that solves real-world problems
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://github.com/tahsan410">
@@ -181,5 +181,5 @@ I enjoy solving algorithmic problems and improving my understanding of:
 ---
 
 <p align="center">
-  <i>Building. Learning. Improving. 🚀</i>
+  <i>Building. Learning. Improving. </i>
 </p>
